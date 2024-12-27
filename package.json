@@ -16,7 +16,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-merge-commit": "node .husky/pre-merge-commit"
+      "pre-commit": "node .husky/pre-commit"
     }
   }
 }
